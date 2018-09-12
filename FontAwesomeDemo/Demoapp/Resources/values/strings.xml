@@ -772,7 +772,7 @@
   <string name="fa_icon_window_restore" translatable="false">&#xf2d2;</string>
   <string name="fa_icon_windows" translatable="false">&#xf17a;</string>
   <string name="fa_icon_won" translatable="false">&#xf159;</string>
-  <string name="fa_icon_wordpress" translatable="false">&#xf19a;</string>
+  <string name="fa_icon_wordpress" >&#xf19a;</string>
   <string name="fa_icon_wpbeginner" translatable="false">&#xf297;</string>
   <string name="fa_icon_wpexplorer" translatable="false">&#xf2de;</string>
   <string name="fa_icon_wpforms" translatable="false">&#xf298;</string>

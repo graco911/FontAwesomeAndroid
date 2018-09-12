@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+	tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/message"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:layout_marginLeft="@dimen/activity_horizontal_margin"
@@ -16,7 +17,7 @@
         android:layout_marginTop="@dimen/activity_vertical_margin"
 		android:textSize="45sp"
         android:textColor="#9b59b6"
-        android:text="@string/fa_icon_angle_double_left" />
+        android:text="@string/fa_icon_wordpress" />
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
